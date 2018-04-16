@@ -1,0 +1,13 @@
+{
+  "name": "dexter",
+  "version": "1.0.0",
+  "description": "an interactive knowledge-base",
+  "main": "bot.js",
+  "repository": "git@github.com:b3457m0d3/discord-dexter-bot.git",
+  "author": "Jessie James Jackson Taylor",
+  "license": "MIT",
+  "dependencies": {
+    "discord.io": "^2.5.1",
+    "winston": "^2.3.1"
+  }
+}
